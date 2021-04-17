@@ -160,7 +160,7 @@ export const storeProducts = [
     {
       id: 15,
       title: "Joyride Dual Run Marathon Running Shoes/Sneakers",
-      img: "img/product-7.png",
+      img: "img/Shoes_1.png",
       price: 30000,
       company: "PUMA",
       info:"Kevin Durant lurks on the wing, waiting for the right time to strike before slicing his way through defences. The KD14 is designed to help versatile, relentless players like KD feel fresh all game long. Multi-layer mesh and a midfoot strap help reduce the foot's movements inside the shoe. Full-length Zoom Air cushioning plus Cushlon foam give back energy for lasting performance. This EP version uses an extra-durable sole that's ideal for outdoor courts.",
