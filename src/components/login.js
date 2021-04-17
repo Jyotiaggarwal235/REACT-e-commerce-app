@@ -103,7 +103,7 @@ const ModalContainer = styled.div`
   align-items: center;
   justify-content: center;
   #modal {
-    background: rgba(0.3, 0, 0, 0);
+    background: var(--mainWhite);
   }
   .validation{
     position: absolute;

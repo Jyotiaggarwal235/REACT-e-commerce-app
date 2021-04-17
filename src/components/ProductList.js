@@ -9,7 +9,7 @@ import {  ProductContext} from "../context";
       <React.Fragment>
         <ProductWrapper className="py-5">
           <div className="container">
-            <Title name="our" title="products" />
+            <Title name="Fashionable" title="Shoes" />
             <div className="row">
               {
                 value.state.products.map(product => {
