@@ -35,10 +35,10 @@ export const storeProducts = [
     },
     {
       id: 4,
-      title: "HTC 10 - Black",
+      title: "RS-2K Internet Exploring Sneakers",
       img: "img/Shoes_4.png",
       price: 39999,
-      company: "v",
+      company: "Puma",
       info:"Nike Crater Impact is part of our sustainability journey to transform trash into shoes that tread a little lighter.Made from at least 25% recycled material by weight, it brings in unique design choices that reduce waste when compared with traditional methods—like an embroidered Swoosh, efficient overlays and of course its Crater foam midsole.",
       inCart: false,
       count: 0,
